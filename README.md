@@ -1,4 +1,6 @@
-# I have tried to clone Starbucks.com with only frontend part. Unfortunately, i could not make it reponsively. 
+# Clone Starbucks.com 
+
+I have tried to clone Starbucks.com with only frontend part. Unfortunately, i could not make it reponsively. 
 
 Live demo is available from https://ideveloper-brandon.github.io/Starbucks-clone/
 
