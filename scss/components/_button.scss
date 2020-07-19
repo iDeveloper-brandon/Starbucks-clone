@@ -1,0 +1,21 @@
+.btn {
+  padding: 0.8rem 1.7rem;
+  border-radius: 25px;
+  border: 1px solid black;
+  display: inline-block;
+  color: black;
+
+  &__white {
+    color: black;
+    background-color: white;
+  }
+
+  &__black {
+    color: white;
+    background-color: black;
+  }
+}
+
+a {
+  text-decoration: none;
+}

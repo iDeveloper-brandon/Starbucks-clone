@@ -1,0 +1,17 @@
+{
+  "name": "sass-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "iDeveloper-Brandon",
+  "license": "MIT",
+  "homepage": "https://ideveloper-brandon.github.io/Starbucks-clone",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "node-sass": "^4.14.1"
+  }
+}
