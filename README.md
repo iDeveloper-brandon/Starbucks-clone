@@ -1,6 +1,4 @@
-# sass-starter-pack
-
-free img from https://source.unsplash.com/random
+# I have tried to clone Starbucks.com with only frontend part. Unfortunately, i could not make it reponsively. 
 
 Live demo is available from https://ideveloper-brandon.github.io/Starbucks-clone/
 
